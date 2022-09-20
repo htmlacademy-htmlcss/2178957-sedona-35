@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Вячеслав Белов](https://up.htmlacademy.ru/htmlcss/35/user/2178957).
-* Наставник: `Неизвестно`.
+* Наставник: [Roman Zheltov] (https://htmlacademy.ru/profile/id1145037.
 
 ---
 
